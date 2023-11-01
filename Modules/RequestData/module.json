@@ -1,0 +1,13 @@
+{
+    "name": "RequestData",
+    "alias": "requestdata",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RequestData\\Providers\\RequestDataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

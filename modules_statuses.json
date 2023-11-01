@@ -1,0 +1,12 @@
+{
+    "Auth": true,
+    "LandingPage": true,
+    "Test": false,
+    "Dashboard": true,
+    "Role": true,
+    "Menu": true,
+    "User": true,
+    "AuthLogin": false,
+    "Home": true,
+    "RequestData": true
+}
